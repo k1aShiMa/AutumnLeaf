@@ -14,3 +14,11 @@ autumnleaf
         style.css
     templates/
     README.md
+
+Requirements:
+    dash
+    pyshark
+    scapy
+    python
+
+You'll need these, to make changes or to run it
